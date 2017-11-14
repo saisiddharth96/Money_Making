@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "79892570621",
+    "firebase_url": "https://bihari-videos.firebaseio.com",
+    "project_id": "bihari-videos",
+    "storage_bucket": "bihari-videos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79892570621:android:0565345c5718c71a",
+        "android_client_info": {
+          "package_name": "com.example.saisi.biharivideos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79892570621-3atcvmlujfchflgdmtorbfr588ae9b7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saisi.biharivideos",
+            "certificate_hash": "a344fb40643d92a8fc0c2c673ccc9ed1a5e912bb"
+          }
+        },
+        {
+          "client_id": "79892570621-lbo7n5sjl12ik8guur9tmphc9efivt1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwYovSVs8DtGn-uREtJzA_09ehcKQBzJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79892570621-lbo7n5sjl12ik8guur9tmphc9efivt1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

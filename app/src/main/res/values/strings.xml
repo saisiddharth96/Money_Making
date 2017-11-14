@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bihari Videos</string>
+    <string name="facebook_app_id">189253821622953</string>
+    <string name="fb_login_protocol_scheme">fb189253821622953</string>
+</resources>
